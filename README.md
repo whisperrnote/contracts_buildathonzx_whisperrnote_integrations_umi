@@ -1,12 +1,12 @@
 # WhisperNote Umi Integration Contracts
 
-This repo contains a Move smart contract for Umi integration with WhisperNote.
+This repo contains a Move smart contract for decentralized notes integration with WhisperNote.
 
-## Counter Contract
+## Notes Contract
 
-A simple Move contract to increment and fetch a counter value.
+A Move contract for creating, updating, and fetching notes per user.
 
-- **Source:** `contracts/counter/sources/counter.move`
+- **Source:** `contracts/notes/sources/notes.move`
 - **Deploy:** Use Hardhat and Aptos CLI as described in [contracts.md](../docxed/docxed/buildathonzx/whisperrnote/integrations/umi/contracts.md).
 
 ## Quick Start
