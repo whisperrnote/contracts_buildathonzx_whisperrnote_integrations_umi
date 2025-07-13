@@ -6,7 +6,7 @@ module.exports = {
   networks: {
     devnet: {
       url: "https://devnet.uminetwork.com",
-      accounts: ["YOUR_PRIVATE_KEY"]
+      accounts: ["0x97ccdedd46f93f567e4215635db46258d2ad2b9de6cfe7ff894e336649a83f86"]
     }
   }
 };
